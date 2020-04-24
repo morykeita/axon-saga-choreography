@@ -1,0 +1,8 @@
+com/example/commands/CreateShippingCommand.class
+com/example/commands/CreateOrderCommand.class
+com/example/events/InvoiceCreatedEvent.class
+com/example/commands/UpdateOrderStatusCommand.class
+com/example/commands/CreateInvoiceCommand.class
+com/example/events/OrderCreatedEvent.class
+com/example/events/OrderUpdatedEvent.class
+com/example/events/OrderShippedEvent.class

@@ -1,0 +1,8 @@
+/home/magicmory/Documents/axon-saga-orchestration/coreapis/src/main/java/com/example/commands/CreateInvoiceCommand.java
+/home/magicmory/Documents/axon-saga-orchestration/coreapis/src/main/java/com/example/events/OrderUpdatedEvent.java
+/home/magicmory/Documents/axon-saga-orchestration/coreapis/src/main/java/com/example/events/InvoiceCreatedEvent.java
+/home/magicmory/Documents/axon-saga-orchestration/coreapis/src/main/java/com/example/events/OrderCreatedEvent.java
+/home/magicmory/Documents/axon-saga-orchestration/coreapis/src/main/java/com/example/events/OrderShippedEvent.java
+/home/magicmory/Documents/axon-saga-orchestration/coreapis/src/main/java/com/example/commands/UpdateOrderStatusCommand.java
+/home/magicmory/Documents/axon-saga-orchestration/coreapis/src/main/java/com/example/commands/CreateShippingCommand.java
+/home/magicmory/Documents/axon-saga-orchestration/coreapis/src/main/java/com/example/commands/CreateOrderCommand.java
